@@ -1,0 +1,83 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+
+.tituloseccion {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.destacados img {
+    height: 140px;
+    object-fit: cover;
+}
+
+.fondo {
+    background-color: black;
+}
+
+.container {
+    color: white;
+    text-align: justify;
+    margin-top: 40px;
+}
+
+.navbar {
+    font-size: 20px;
+
+}
+
+.card-title {
+    color: black;
+}
+
+.card-body {
+    background-color: rgb(86, 215, 251);
+}
+
+.card-title {
+    color: white;
+}
+
+.texto-final {
+    font-size: 35px;
+}
+
+.navbar-nav {
+    font-size: 25px;
+    text-align: left;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.titulo-favicon {
+    font-size: 30px;
+}
+
+.nav-item {
+    margin-left: 35px;
+}
+
+.barra_final {
+    background-color: rgb(86, 215, 251);
+    color: white;
+}
+
+.contacto{
+    text-align: center;
+}
+
+.titlesomos{
+    background-color: rgb(86, 215, 251);
+    text-align: center;
+}
