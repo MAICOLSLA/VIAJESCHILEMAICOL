@@ -87,3 +87,9 @@ html {
         display: none;
     }
 }
+
+.navbar-movil{
+    background-color:blueviolet;
+    opacity: 0.9;
+    color: white;
+}
